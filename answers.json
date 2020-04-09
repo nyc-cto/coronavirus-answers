@@ -7,7 +7,7 @@ layout: null
       "title"    : "{{ content.title | escape }}",
       "category" : "{{ content.category }}",
       "excerpt"  : "{{ content.excerpt | strip_html | strip }}",
-      "url"      : "{{ site.baseurl }}/{{ content.category | downcase }}/{{ content.slug | downcase }}/",
+      "url"      : "https://faq.coronavirus.gov/{{ content.category | downcase }}/{{ content.slug | downcase }}/",
       "date"     : "{{ content.date }}",
       "content"  : "{{ content.content }}"
     } {% unless forloop.last %},{% endunless %}
