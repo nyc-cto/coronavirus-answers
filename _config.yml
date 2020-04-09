@@ -53,3 +53,15 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+collections:
+  pages:
+    output: true
+    permalink: /:path/
+  categories:
+    output: false
+    permalink: /:name/
+  content:
+    output: true
+    permalink: /:categories/:name/
+
