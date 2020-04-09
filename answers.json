@@ -4,7 +4,7 @@ layout: null
 [
   {% for content in site.content %}
     {
-      "title"    : "{{ content.title | escape }}",
+      "title"    : "{{ content.title | replace: '"', '\"' }}",
       "category" : "{{ content.category }}",
       "excerpt"  : "{{ content.excerpt | strip_html | strip }}",
       "url"      : "https://faq.coronavirus.gov/{{ content.category | downcase }}/{{ content.slug | downcase }}/",
