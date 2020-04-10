@@ -161,13 +161,17 @@ When the Coronavirus FAQ page changes, an automated system could then update the
 ## Contributors
 
 [Damien Burke](https://github.com/exmember)
+
 [Rob Head](https://github.com/roberthead)
 
 ### Special thanks
 
 [Megan Folsom](https://github.com/mfolsom)
+
 [Jordan Epps](https://github.com/jkepps)
+
 [Justin Man](https://github.com/jisaf)
 
 [NYC Mayor's Office of the Chief Technology Officer](https://www1.nyc.gov/assets/cto/)
+
 [Talaria Software](https://www.talariasoftware.com)
