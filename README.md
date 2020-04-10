@@ -42,12 +42,19 @@ An answer object represents an answer about Coronavirus.
 #### Attributes
 
 title: the question. Human-readable text.
+
 category: the name of the category this answer belongs to. A URL-safe string.
+
 excerpt: the category name. Human-readable text. This data is not displayed on the Coronavirus FAQ page and it is recommended that you ignore it.
+
 source: the name of the source for this answer. Human-readable text.
+
 source_url: a URL pointing to the definiative source of the answer.
+
 promoted: Promoted answers are listed on the hompage in the section for their category. Other answers are only listed on the category page. Boolean.
+
 date: date this answer was last updated. ISO 8601 format.
+
 content: content of the answer. An HTML fragment
 
 ### Category data
@@ -70,8 +77,11 @@ A category object represents an answer category.
 #### Attributes
 
 title: title of the category. Human-readable text.
+
 name: unique identifier for the category. URL-safe string.
+
 url: the canonical URL to this category on faq.coronavirus.gov.
+
 banner: an optional banner object for the category.
 
 Categories only include a banner object if they have a banner that should be displayed. The underlying data includes banner data for all categories, but in most cases it is placeholder data and should be ignored.
@@ -89,6 +99,7 @@ A banner object represents information that is displayed as a banner with the ca
 ```
 
 heading: the heading or title for the banner. Human-readable text.
+
 content: the content for the banner. An HTML fragment.
 
 ## Development
