@@ -16,9 +16,9 @@ The API consists of two endpoints that serve JSON. One contains the complete lis
 
 ### Endpoints
 
-The answers endpoint is available at [`https://talariasoftware.github.io/coronavirus-answers/answers.json`](https://talariasoftware.github.io/coronavirus-answers/answers.json) and returns a JSON array containing all of the answer objects.
+The answers endpoint is available at [`https://nyc-cto.github.io/coronavirus-answers/answers.json`](https://nyc-cto.github.io/coronavirus-answers/answers.json) and returns a JSON array containing all of the answer objects.
 
-The category endpoint is available at [`https://talariasoftware.github.io/coronavirus-answers/categories.json`](https://talariasoftware.github.io/coronavirus-answers/categories.json) and returns a JSON array containing all of the category objects. The category objects are sorted in the same order as they appear on the home page of [Coronavirus FAQ](faq.coronavirus.gov).
+The category endpoint is available at [`https://nyc-cto.github.io/coronavirus-answers/categories.json`](https://nyc-cto.github.io/coronavirus-answers/categories.json) and returns a JSON array containing all of the category objects. The category objects are sorted in the same order as they appear on the home page of [Coronavirus FAQ](faq.coronavirus.gov).
 
 ### Answer data
 
