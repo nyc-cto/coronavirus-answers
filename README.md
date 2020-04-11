@@ -1,6 +1,6 @@
 # Coronavirus Answers
 
-JSON API for [Coronavirus FAQ](faq.coronavirus.gov)
+JSON API for [Coronavirus FAQ](https://faq.coronavirus.gov)
 
 ## Why
 
@@ -18,7 +18,7 @@ The API consists of two endpoints that serve JSON. One contains the complete lis
 
 The answers endpoint is available at [`https://nyc-cto.github.io/coronavirus-answers/answers.json`](https://nyc-cto.github.io/coronavirus-answers/answers.json) and returns a JSON array containing all of the answer objects.
 
-The category endpoint is available at [`https://nyc-cto.github.io/coronavirus-answers/categories.json`](https://nyc-cto.github.io/coronavirus-answers/categories.json) and returns a JSON array containing all of the category objects. The category objects are sorted in the same order as they appear on the home page of [Coronavirus FAQ](faq.coronavirus.gov).
+The category endpoint is available at [`https://nyc-cto.github.io/coronavirus-answers/categories.json`](https://nyc-cto.github.io/coronavirus-answers/categories.json) and returns a JSON array containing all of the category objects. The category objects are sorted in the same order as they appear on the home page of [Coronavirus FAQ](https://faq.coronavirus.gov).
 
 ### Answer data
 
@@ -80,7 +80,7 @@ title: title of the category. Human-readable text.
 
 name: unique identifier for the category. URL-safe string.
 
-url: the canonical URL to this category on faq.coronavirus.gov.
+url: the canonical URL to this category on https://faq.coronavirus.gov.
 
 banner: an optional banner object for the category.
 
