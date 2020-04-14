@@ -131,7 +131,7 @@ This project is deployed via [GitHub Pages](https://pages.github.com)
 
 ## Limitations
 
-The primary limitation is that there is no way for this project to automatically remain up-to-date with data from [Coronavirus FAQ](https://faq.coronavirus.gov/). It was designed to make updating as easy as possible but it still requires that someone with access to the underlying data a) finds out it has been updates, and b) commits a change to this project with an update. Because a live store of the underlying data is not publicly available, it is not trivial to automate that process.
+The primary limitation is that there is no way for this project to automatically remain up-to-date with data from [Coronavirus FAQ](https://faq.coronavirus.gov/). This repo will be kept up to date with periodic pushes to match the canonical source, however an automated approach is being investigated.
 
 ## Future work
 
