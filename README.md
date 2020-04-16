@@ -169,6 +169,6 @@ When the Coronavirus FAQ page changes, an automated system could then update the
 
 [Justin Man](https://github.com/jisaf)
 
-[NYC Mayor's Office of the Chief Technology Officer](https://www1.nyc.gov/assets/cto/)
+[NYC Mayor's Office of the Chief Technology Officer](http://nyc.gov/cto/)
 
 [Talaria Software](https://www.talariasoftware.com)
