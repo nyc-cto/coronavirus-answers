@@ -1,3 +1,9 @@
+# DEPRECATED AND NO LONGER MAINTAINED. #
+
+This is being merged into the CDC's Repo at https://github.com/18F/cv_faq/pull/505 and https://github.com/18F/cv_faq/pull/510
+
+Many thanks to those who have worked on this. And thank you to 18F for accepting the PR.
+
 # Coronavirus Answers
 
 JSON API for [Coronavirus FAQ](https://faq.coronavirus.gov)
